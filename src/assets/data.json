@@ -1,0 +1,244 @@
+{
+    "preguntas_respuestas": [
+      {
+        "id": 1,
+        "pregunta": "¿Cuál es el Digimon principal en Digimon Adventure?",
+        "opciones_respuestas": ["Agumon", "Gabumon", "Patamon", "Veemon"],
+        "respuesta_correcta": 1
+      },
+      {
+        "id": 2,
+        "pregunta": "¿Cuál es el nivel evolutivo siguiente de Gabumon?",
+        "opciones_respuestas": ["Greymon", "Garurumon", "Kabuterimon", "Angemon"],
+        "respuesta_correcta": 2
+      },
+      {
+        "id": 3,
+        "pregunta": "¿Cuál es el Digimon que tiene la cresta del Amor?",
+        "opciones_respuestas": ["Patamon", "Gatomon", "Palmon", "Biyomon"],
+        "respuesta_correcta": 2
+      },
+      {
+        "id": 4,
+        "pregunta": "¿Cuál es el enemigo principal en Digimon Adventure 02?",
+        "opciones_respuestas": ["MetalSeadramon", "Piedmon", "Devimon", "Digimon Kaiser"],
+        "respuesta_correcta": 4
+      },
+      {
+        "id": 5,
+        "pregunta": "¿Quién es el compañero de Ruki en Digimon Tamers?",
+        "opciones_respuestas": ["Renamon", "Guilmon", "Terriermon", "Impmon"],
+        "respuesta_correcta": 1
+      },
+      {
+        "id": 6,
+        "pregunta": "¿Cuál es la cresta de Mimi Tachikawa en Digimon Adventure?",
+        "opciones_respuestas": ["Amistad", "Sinceridad", "Amor", "Esperanza"],
+        "respuesta_correcta": 2
+      },
+      {
+        "id": 7,
+        "pregunta": "¿En qué nivel digievoluciona Tentomon?",
+        "opciones_respuestas": ["Kabuterimon", "Greymon", "Angemon", "Garurumon"],
+        "respuesta_correcta": 1
+      },
+      {
+        "id": 8,
+        "pregunta": "¿Cuál es la habilidad especial de Gatomon?",
+        "opciones_respuestas": ["Cola de Garra", "Garra Iluminada", "Garra Mística", "Garra Venenosa"],
+        "respuesta_correcta": 2
+      },
+      {
+        "id": 9,
+        "pregunta": "¿Quién es el líder de los Digimon en la serie Digimon Adventure?",
+        "opciones_respuestas": ["Tai Kamiya", "Matt Ishida", "Izzy Izumi", "Sora Takenouchi"],
+        "respuesta_correcta": 1
+      },
+      {
+        "id": 10,
+        "pregunta": "¿Cuál es el nombre del compañero de Davis en Digimon Adventure 02?",
+        "opciones_respuestas": ["Veemon", "Hawkmon", "Armadillomon", "Patamon"],
+        "respuesta_correcta": 1
+      },
+      {
+        "id": 11,
+        "pregunta": "¿Qué tipo de Digimon es Palmon?",
+        "opciones_respuestas": ["Planta", "Bestia", "Máquina", "Virus"],
+        "respuesta_correcta": 1
+      },
+      {
+        "id": 12,
+        "pregunta": "¿Cuál es el Digimon que digievoluciona a MetalGreymon?",
+        "opciones_respuestas": ["Agumon", "Gabumon", "Patamon", "Tentomon"],
+        "respuesta_correcta": 1
+      },
+      {
+        "id": 13,
+        "pregunta": "¿Cuál es el nombre del hermano de Tai en Digimon Adventure?",
+        "opciones_respuestas": ["Kari", "Matt", "Joe", "Izzy"],
+        "respuesta_correcta": 1
+      },
+      {
+        "id": 14,
+        "pregunta": "¿Cuál es el atributo de Terriermon en Digimon Tamers?",
+        "opciones_respuestas": ["Vacuna", "Virus", "Data", "Libre"],
+        "respuesta_correcta": 1
+      },
+      {
+        "id": 15,
+        "pregunta": "¿Quién es el creador de los Digimon en el mundo digital?",
+        "opciones_respuestas": ["Gennai", "Yggdrasil", "Homeostasis", "Genius"],
+        "respuesta_correcta": 2
+      },
+      {
+        "id": 16,
+        "pregunta": "¿Cuál es el primer Digimon que aparece en la serie Digimon Adventure?",
+        "opciones_respuestas": ["Koromon", "Botamon", "Tsunomon", "Yokomon"],
+        "respuesta_correcta": 2
+      },
+      {
+        "id": 17,
+        "pregunta": "¿Cuál es el nombre del virus que afecta a los Digimon en Digimon Adventure?",
+        "opciones_respuestas": ["Dark Virus", "Devimon Virus", "Corruption Virus", "Etemon Virus"],
+        "respuesta_correcta": 2
+      },
+      {
+        "id": 18,
+        "pregunta": "¿Cuál es el nombre del Digimon oscuro que aparece en Digimon Adventure 02?",
+        "opciones_respuestas": ["Myotismon", "Vamdemon", "BlackWarGreymon", "Daemon"],
+        "respuesta_correcta": 3
+      },
+      {
+        "id": 19,
+        "pregunta": "¿Cuál es la forma mega de Gatomon?",
+        "opciones_respuestas": ["Angewomon", "Magnadramon", "Ophanimon", "Rosemon"],
+        "respuesta_correcta": 3
+      },
+      {
+        "id": 20,
+        "pregunta": "¿En qué región se desarrolla Digimon Frontier?",
+        "opciones_respuestas": ["Digital World", "File Island", "Spiral Mountain", "Silesia"],
+        "respuesta_correcta": 3
+      },
+      {
+        "id": 21,
+        "pregunta": "¿Cuál es la Digievolución mega de Guilmon en Digimon Tamers?",
+        "opciones_respuestas": ["Megidramon", "Gallantmon", "Sakuyamon", "Imperialdramon"],
+        "respuesta_correcta": 2
+      },
+      {
+        "id": 22,
+        "pregunta": "¿Qué tipo de Digimon es Agumon?",
+        "opciones_respuestas": ["Dinosaurio", "Reptil", "Bestia", "Dragon"],
+        "respuesta_correcta": 1
+      },
+      {
+        "id": 23,
+        "pregunta": "¿Cuál es el nombre del Digimon que tiene forma de calamar en Digimon Adventure?",
+        "opciones_respuestas": ["Tentomon", "Ikkakumon", "Shellmon", "Elecmon"],
+        "respuesta_correcta": 3
+      },
+      {
+        "id": 24,
+        "pregunta": "¿En qué nivel digievoluciona Palmon?",
+        "opciones_respuestas": ["Togemon", "Lilymon", "Rosemon", "Venusmon"],
+        "respuesta_correcta": 1
+      },
+      {
+        "id": 25,
+        "pregunta": "¿Cuál es el compañero de Koji en Digimon Frontier?",
+        "opciones_respuestas": ["Zoe", "J.P.", "Tommy", "Koichi"],
+        "respuesta_correcta": 3
+      },
+      {
+        "id": 26,
+        "pregunta": "¿Cuál es el nivel evolutivo siguiente de Tentomon?",
+        "opciones_respuestas": ["MegaKabuterimon", "Kabuterimon", "AtlurKabuterimon", "TyrantKabuterimon"],
+        "respuesta_correcta": 1
+      },
+      {
+        "id": 27,
+        "pregunta": "¿Quién es el aliado principal de Marcus Damon en Digimon Data Squad?",
+        "opciones_respuestas": ["Agumon", "Gaomon", "Lalamon", "Falcomon"],
+        "respuesta_correcta": 1
+      },
+      {
+        "id": 28,
+        "pregunta": "¿Cuál es el nombre del Digimon que digievoluciona a MagnaAngemon?",
+        "opciones_respuestas": ["Patamon", "Angemon", "Tokomon", "Gatomon"],
+        "respuesta_correcta": 1
+      },
+      {
+        "id": 29,
+        "pregunta": "¿En qué nivel digievoluciona Biyomon?",
+        "opciones_respuestas": ["Birdramon", "Aquila", "Garudamon", "Hououmon"],
+        "respuesta_correcta": 1
+      },
+      {
+        "id": 30,
+        "pregunta": "¿Cuál es el nombre del grupo de antagonistas en Digimon Adventure 02?",
+        "opciones_respuestas": ["Los Tres Grandes", "La Alianza Oscura", "Los Tamers", "La Orden de los Caballeros Reales"],
+        "respuesta_correcta": 2
+      },
+      {
+        "id": 31,
+        "pregunta": "¿Cuál es el atributo de Renamon en Digimon Tamers?",
+        "opciones_respuestas": ["Vacuna", "Virus", "Data", "Libre"],
+        "respuesta_correcta": 3
+      },
+      {
+        "id": 32,
+        "pregunta": "¿Cuál es la forma mega de Terriermon en Digimon Tamers?",
+        "opciones_respuestas": ["Rapidmon", "SaintGalgomon", "MegaGargomon", "Dukemon"],
+        "respuesta_correcta": 3
+      },
+      {
+        "id": 33,
+        "pregunta": "¿Qué tipo de Digimon es Impmon en Digimon Tamers?",
+        "opciones_respuestas": ["Vacuna", "Virus", "Data", "Libre"],
+        "respuesta_correcta": 2
+      },
+      {
+        "id": 34,
+        "pregunta": "¿Cuál es el nombre del Digimon que digievoluciona a WarGreymon?",
+        "opciones_respuestas": ["Agumon", "Greymon", "MetalGreymon", "SkullGreymon"],
+        "respuesta_correcta": 3
+      },
+      {
+        "id": 35,
+        "pregunta": "¿En qué región se desarrolla Digimon Savers (Data Squad)?",
+        "opciones_respuestas": ["Digital World", "File Island", "Spiral Mountain", "Real World"],
+        "respuesta_correcta": 4
+      },
+      {
+        "id": 36,
+        "pregunta": "¿Cuál es el nombre del Digi-Elegido en Digimon Adventure tri.?",
+        "opciones_respuestas": ["Meiko Mochizuki", "Daigo Nishijima", "Maki Himekawa", "Nishijima"],
+        "respuesta_correcta": 1
+      },
+      {
+        "id": 37,
+        "pregunta": "¿Cuál es el compañero de Kari en Digimon Adventure?",
+        "opciones_respuestas": ["Gatomon", "Patamon", "Biyomon", "Palmon"],
+        "respuesta_correcta": 1
+      },
+      {
+        "id": 38,
+        "pregunta": "¿Cuál es el nombre del Digimon que digievoluciona a MegaGargomon?",
+        "opciones_respuestas": ["Gargomon", "Rapidmon", "Terriermon", "Antylamon"],
+        "respuesta_correcta": 3
+      },
+      {
+        "id": 39,
+        "pregunta": "¿Cuál es la forma mega de Palmon en Digimon Adventure tri.?",
+        "opciones_respuestas": ["Rosemon", "Lilymon", "Togemon", "Cherrymon"],
+        "respuesta_correcta": 1
+      },
+      {
+        "id": 40,
+        "pregunta": "¿Cuál es el atributo de BlackAgumon?",
+        "opciones_respuestas": ["Vacuna", "Virus", "Data", "Libre"],
+        "respuesta_correcta": 2
+      }
+    ]
+  }
