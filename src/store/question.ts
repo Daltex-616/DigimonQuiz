@@ -10,7 +10,7 @@ interface State{
     selectAnwser: (questionId: number, anwserIndex:number)=> void
     goNextQuestion :() => void
     goPreviousQuestion:()=> void
-    reset : () =>void
+    reset:() => void
 }
 
 export const useQuestionsStore = create<State>()(persist((set,get)=>{
@@ -18,7 +18,11 @@ export const useQuestionsStore = create<State>()(persist((set,get)=>{
         questions: [],
         currentQuestion:0,
         fetchQuestion: async (limit:number)=>{
-            const res =await fetch("http://localhost:3000/preguntas_respuestas")
+            const res = await fetch(`${import.meta.env.VITE_ENDPINT}`);
+
+            if (!res.ok) {
+              throw new Error("Error al obtener las preguntas");
+            }
             const json = await res.json()
 
             const questions = json.sort(() => Math.random()-0.5).slice(0,limit)
