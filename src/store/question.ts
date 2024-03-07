@@ -31,7 +31,7 @@ export const useQuestionsStore = create<State>()(persist((set,get)=>{
         selectAnwser:(questionId:number, anwserIndex:number) =>{
             const {questions}= get()
             const newQuestions = structuredClone(questions) 
-            const questionIndex = newQuestions.findIndex(q => q.id ===questionId)
+            const questionIndex = newQuestions.findIndex(q => q.index ===questionId)
             const questionInfo = newQuestions[questionIndex]
             const isCorrectUserAnswer = questionInfo.respuesta_correcta === anwserIndex
             if(isCorrectUserAnswer) confetti()

@@ -27,7 +27,7 @@ const Question = ({ info }: { info: QuestionType }) => {
   const selectAnwser = useQuestionsStore((state) => state.selectAnwser);
 
   const createHandleClick = (anwserIndex: number) => () => {
-    selectAnwser(info.id, anwserIndex);
+    selectAnwser(info.index, anwserIndex);
   };
 
   return (
